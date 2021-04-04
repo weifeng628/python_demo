@@ -4,8 +4,8 @@
 ### 2. [上传附件](upload.py)
 
 #  其他 
-### requests说明手册
-```
-https://docs.python-requests.org/zh_CN/latest/index.html
-```
+### 说明手册
+- [requests说明手册](https://docs.python-requests.org/zh_CN/latest/index.html)
+
+
 
